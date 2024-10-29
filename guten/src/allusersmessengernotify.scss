@@ -1,0 +1,29 @@
+#all-users-messenger-notify {
+}
+.message_notify_modal_content {
+	font-size: 1.0em;
+	font-weight: bold;
+	line-height: 1.0em;
+}
+.message_notify_button {
+	display: block;
+	margin: 0 auto;
+}
+.message_notify_title {
+	text-align: center;
+}
+.avatar-name-datetime-message img {
+	vertical-align: top;
+	display: inline-block;
+	padding: 0px 10px 0px 0px;
+}
+.avatar-name-datetime-message span {
+	display: inline-block;
+}
+.notify_bar_num {
+	vertical-align: super;
+	font-size: smaller;
+	font-weight: bold;
+	filter: invert(100%);
+	mix-blend-mode: exclusion;
+}
